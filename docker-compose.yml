@@ -7,7 +7,7 @@
 #    Note that after this change Bonsai will be available only by domain name you specified,
 #    and will not be available by IP.
 
-version: "3.3"
+version: "2.3"
 services:
   traefik:
     image: traefik
